@@ -1,0 +1,19 @@
+@charset "UTF-8";
+
+body{
+background-color: #fffeee;
+}
+
+h3{
+  margin-top: 50px;
+}
+
+h1{
+    padding: 8px 19px;
+    margin-top: 0;
+    margin-bottom: 0;
+    color: #2c2c2f;
+    background: #cde4ff;
+    border-top: solid 5px #5989cf;
+    border-bottom: solid 5px #5989cf;
+}

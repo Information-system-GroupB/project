@@ -1,0 +1,45 @@
+@charset "UTF-8";
+html{
+  font-size: 100%;
+}
+
+a{
+  text-decoration: none;
+}
+
+.home{
+  text-align: center;
+  padding-top: 10%;
+}
+
+div p{
+  font-size: 1.2rem;
+  margin: 10px 0 42px;
+}
+
+.page-title{
+  font-size: 5rem;
+}
+
+/*ボタン*/
+.button{
+  font-size: 1.375rem;
+  background: #0bd;
+  color: #fff;
+  border-radius: 5px;
+  padding: 18px 32px;
+}
+
+.button:hover{
+  background: #0090aa;
+}
+
+#big-bg{
+  background-size: cover;
+  background-position: center top;
+}
+
+.home{
+  background-image: url(image1.jpg);
+  min-height: 120vh;
+}
